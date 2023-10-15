@@ -7,9 +7,7 @@ function App() {
     <div className="aplicacion-tareas">
       <div className='tareas-lista-principal'>
         <h1>Mis tareas</h1>
-        <TareaFormulario>
-          
-        </TareaFormulario>
+        
       </div>
     </div>
   );
