@@ -27,8 +27,3 @@ Instrucciones sobre cómo instalar y ejecutar la aplicación localmente. Esto po
    - Clona este repositorio.
    - Ejecuta `npm install` para instalar las dependencias.
    - Ejecuta `npm start` para iniciar la aplicación en un servidor de desarrollo local.
-
-### Autor
-
-Ricardo Torres
-giron.torres1@gmail.com
