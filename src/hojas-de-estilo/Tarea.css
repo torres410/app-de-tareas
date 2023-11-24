@@ -43,3 +43,9 @@
   background-color: #5a01a7;
   text-decoration: line-through;
 }
+
+@media (max-width: 640px) {
+  .tarea-contenedor {
+    width: 340px;
+  }
+}

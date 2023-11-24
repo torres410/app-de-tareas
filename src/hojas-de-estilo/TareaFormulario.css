@@ -25,5 +25,10 @@
   outline: none;
   background: #00471b;
   color: #fff;
-  text-transform: capitalize;
+}
+
+@media (max-width: 640px) {
+  .tarea-input {
+    width: 196px;
+  }
 }
